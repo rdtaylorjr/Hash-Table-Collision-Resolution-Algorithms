@@ -1,4 +1,6 @@
-# Hash-Table-Collision-Resolution-Methods
+# Hash-Table-Collision-Resolution-Algorithms
+
+Resolves hash table collisions using linear probing, quadratic probing, and linear hashing. Optimized for efficient time and space complexity. 
 
 Programming Language: C++
 
