@@ -4,4 +4,4 @@ Resolves hash table collisions using linear probing, quadratic probing, and line
 
 Programming language: C++
 
-CSC 255 Objects and Algorithms Lab 3
+CSC 255 Objects and Algorithms Lab 3 
